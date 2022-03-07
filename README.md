@@ -1,2 +1,6 @@
 # Interactive Ant Game
- This is an interactive Capture-The-Flag type game in which you are an ant trying to escape from deadly spiders! Try to maintain your health and food levels while securing the flags in sequential order to win!
+Directions:
+
+1. Make sure you have the Codename One environment setup. Link: https://www.codenameone.com/getting-started.html
+2. Open an IDE of your choice (I built this project in Eclipse).
+3. Pull the project and right click the "Simulator_A3Prj.launch" and "Run as" a "Codename One" application.
